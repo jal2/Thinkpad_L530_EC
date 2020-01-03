@@ -49,3 +49,4 @@ According to [5] Lenovo released these versions of EC firmware for the L430/L530
 * [3] https://github.com/clburrus/CR16/blob/master/CR16-dev-build-log.md
 * [4] CR16C Programmer's Reference Manual https://dump.bitcheese.net/files/zujukix/Prog_16C.pdf
 * [5] Lenovo Release Notes L430/L530 BIOS 2.76 https://download.lenovo.com/pccbbs/mobiles/g3uj33uc.txt
+* [6] WPCE775x Datasheet http://read.pudn.com/downloads366/ebook/1587178/WPCE775x_Rev0.8_DS.pdf
